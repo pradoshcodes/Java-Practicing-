@@ -10,4 +10,10 @@ public class Factorial {
             System.out.println(fact);
         }
     }
+
+    public int call(int num) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'call'");
+    }
+
 }
