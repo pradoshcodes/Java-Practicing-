@@ -120,21 +120,21 @@
 
 //private method can not be overridden?
 //private method can not be overridden as they are bonded during compile time.Threrfore we can not even override private method in a subclass.
-class MethodOverriding {
-   private void show(){//default, protected,public
-      System.out.println("This is the base method");
-   }
-}
-class Overrides extends MethodOverriding {
+// class MethodOverriding {
+//    private void show(){//default, protected,public
+//       System.out.println("This is the base method");
+//    }
+// }
+// class Overrides extends MethodOverriding {
  
-  void show(){
-    System.out.println("This is an child method");
- }
- public static void main(String[] args) {
-    MethodOverriding obj = new MethodOverriding();
-    obj.show();
+//   void show(){
+//     System.out.println("This is an child method");
+//  }
+//  public static void main(String[] args) {
+//     MethodOverriding obj = new MethodOverriding();
+//     obj.show();
 
-    Overrides o=new Overrides();
-    o.show();
- }
-}
+//     Overrides o=new Overrides();
+//     o.show();
+//  }
+// }
