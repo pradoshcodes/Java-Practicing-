@@ -4,7 +4,7 @@ public class Code3 {
         String str="pradosh mohanty";
         String revStr="";
         for(int i=str.length()-1;i>=0;i--){
-            revStr=revStr+str.charAt(i);//The Java String class charAt() method returns a char value at the given index number.
+            revStr=revStr+str.charAt(i);//The Java String class charAt() method returns a char value at the given index number
         }
         System.out.println(revStr);
         
