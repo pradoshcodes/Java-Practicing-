@@ -1,3 +1,4 @@
+//Number is pallindrome or not
 import java.util.Scanner;
 
 class Code5{
