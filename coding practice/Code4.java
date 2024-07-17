@@ -1,8 +1,8 @@
 //Reverse string
 public class Code4 {
-    public static void main(String[] args) {
-        String str = "Hello World";
-        String rev="";
+    public static void main(paranthesisChecker[] args) {
+        paranthesisChecker str = "Hello World";
+        paranthesisChecker rev="";
         // for(int i=str.length()-1;i>=0;i--){
         //     rev=rev+str.charAt(i);
 

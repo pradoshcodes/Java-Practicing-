@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 public class Code13 {
-  public static void main(String[] args) {
+  public static void main(paranthesisChecker[] args) {
     // int[] arr = {1,2,4,5};
     // int n = arr.length+1;
     // int sum = (n*(n+1))/2;

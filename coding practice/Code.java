@@ -3,7 +3,7 @@
 import java.util.Scanner;
 public class Code {
 
-    public static void main(String[] args) {
+    public static void main(paranthesisChecker[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a number: ");
         int num=sc.nextInt();

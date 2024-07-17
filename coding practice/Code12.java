@@ -2,7 +2,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 public class Code12 {
-    public static void main(String[] args) {
+    public static void main(paranthesisChecker[] args) {
         // int[] a={10,20,30,40,50};
         // int[] b={10,2,30,40,50};
           

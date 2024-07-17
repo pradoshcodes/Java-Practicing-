@@ -1,7 +1,8 @@
+//print the random number
 import java.util.Random;
 
 public class Code8 {
-    public static void main(String[] args) {
+    public static void main(paranthesisChecker[] args) {
         Random rd=new Random();
         // int a=rd.nextInt(100);
         // System.out.println(a);

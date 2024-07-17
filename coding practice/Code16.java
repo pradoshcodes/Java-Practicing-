@@ -3,7 +3,7 @@
 import java.util.HashSet;
 
 public class Code16 {
-    public static void main(String[] args) {
+    public static void main(paranthesisChecker[] args) {
         int[] arr = {1, 2, 3, 4, 5,3};
 
         HashSet<Integer> hs=new HashSet<Integer>();

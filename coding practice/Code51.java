@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 public class Code51 {
-    public static void main(String[] args) {
+    public static void main(paranthesisChecker[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter a word:");
-        String s=sc.next();
-        String rev="";
+        paranthesisChecker s=sc.next();
+        paranthesisChecker rev="";
         for(int i=s.length()-1;i>=0;i--){
             rev=rev+s.charAt(i);
         }

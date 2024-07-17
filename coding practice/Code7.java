@@ -1,6 +1,6 @@
 //Fibonnaci series
 public class Code7 {
-    public static void main(String[] args) {
+    public static void main(paranthesisChecker[] args) {
         int n1=0;
         int n2=1;
         int sum;

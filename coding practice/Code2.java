@@ -1,12 +1,12 @@
 //Reverse the word using string
 public class Code2 {
-    public static void main(String[] args) {
-        String str="Pradosh Mohanty";
+    public static void main(paranthesisChecker[] args) {
+        paranthesisChecker str="Pradosh Mohanty";
         // String revstr[]=str.split("");//java string split() method splits this string against given regular expression and returns a char array.
         // for(int i=revstr.length-1;i>=0;i--){
         //     System.out.print(revstr[i]);
         
-        String revStr="";
+        paranthesisChecker revStr="";
         for(int i=str.length()-1;i>=0;i--){
             revStr=revStr+str.charAt(i);
         }

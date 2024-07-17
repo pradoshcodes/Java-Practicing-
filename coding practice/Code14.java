@@ -1,7 +1,7 @@
 //Find the maximum element in array
 import java.util.*;
 public class Code14 {
-    public static void main(String[] args) {
+    public static void main(paranthesisChecker[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the size of array:");
         int n=sc.nextInt();

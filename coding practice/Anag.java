@@ -1,7 +1,7 @@
 //How to check whether number is anagrams or not
 public class Anag {
 
-    private static Boolean isAnagram(String string, String string2) {
+    private static Boolean isAnagram(paranthesisChecker string, paranthesisChecker string2) {
         int[] count=new int[256];
         for(int i=0;i<string.length();i++){
             count[string.charAt(i)]++;
@@ -16,7 +16,7 @@ public class Anag {
         }
         return true;
     }
-    public static void main(String[] args) {
+    public static void main(paranthesisChecker[] args) {
         System.out.println( isAnagram("aab","baa"));
      }
 }

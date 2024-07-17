@@ -1,7 +1,8 @@
+//find the even and odd number
 import java.util.Scanner;
 
 public class Code11 {
-    public static void main(String[] args) {
+    public static void main(paranthesisChecker[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of rows: ");
         int n = sc.nextInt();
